@@ -1,0 +1,10 @@
+,Nguyen_Van_A,20,Male,8.5,7.0,9.0
+,Tran_Thi_B,19,Female,6.0,6.5,7.0
+,Le_Van_C,21,Male,5.0,5.5,6.0
+,Pham_Thi_D,22,Female,9.0,8.5,9.0
+,Hoang_Van_E,20,Male,7.0,7.5,7.0
+,Nguyen_Thi_F,18,Female,4.5,4.0,5.0
+,Tran_Van_G,23,Male,6.0,7.0,6.5
+,Le_Thi_H,19,Female,8.0,9.0,9.5
+,Pham_Van_I,21,Male,5.5,5.0,6.0
+,Nguyen_Van_J,22,Male,4.0,4.5,3.5
